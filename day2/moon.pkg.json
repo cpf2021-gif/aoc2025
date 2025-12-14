@@ -1,0 +1,8 @@
+{
+  "import": [
+    {
+      "path": "username/aoc2025/tool",
+      "alias": "tool"
+    }
+  ]
+}
